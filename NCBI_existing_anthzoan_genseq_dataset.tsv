@@ -1,0 +1,396 @@
+Assembly Name	Assembly Accession	Assembly Paired Assembly Accession	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+jaNemVect1.2	GCA_932526225.2		Nematostella vectensis								Chromosome	2026-02-07	CAKOAW02	53
+jaNemVect1.1	GCA_932526225.1	GCF_932526225.1	Nematostella vectensis								Chromosome	2022-03-23	CAKOAW01	47
+jaNemVect1.1	GCF_932526225.1	GCA_932526225.1	Nematostella vectensis							NCBI Nematostella vectensis Annotation Release 101	Chromosome	2022-03-23	CAKOAW01	47
+Amil_v2.1	GCA_013753865.1	GCF_013753865.1	Acropora millepora					JS-1			Chromosome	2020-07-29	JACAWQ01	854
+Amil_v2.1	GCF_013753865.1	GCA_013753865.1	Acropora millepora					JS-1		NCBI Acropora millepora Annotation Release 101	Chromosome	2020-07-29	JACAWQ01	854
+jaAcrHyac4.1	GCA_964291705.1		Acropora hyacinthus								Chromosome	2024-10-28	CAXYSZ01	153
+jaAcrPala1.3	GCA_964030605.3	GCF_964030605.1	Acropora palmata								Chromosome	2025-04-18	CAXIPZ03	244
+jaAcrPala1.3	GCF_964030605.1	GCA_964030605.3	Acropora palmata							GCF_964030605.1-RS_2025_06	Chromosome	2025-04-18	CAXIPZ03	244
+jaGalFasc40.1	GCA_948470475.1		Galaxea fascicularis								Chromosome	2023-02-03	CAOKRL01	177
+jaAcrCerv1.1	GCA_964034985.1		Acropora cervicornis								Chromosome	2024-04-28	CAXIUN01	159
+KAUST_PDAE_v1.0	GCA_056822295.1		Platygyra daedalea				Arabian Gulf	JUB01	hermaphrodite		Chromosome	2026-04-21	JBSXYI01	24
+jaMonCapi2.1	GCA_949126865.1		Montipora capitata								Chromosome	2023-04-08	CASBPP01	132
+ASM3666990v1	GCA_036669905.1	GCF_036669905.1	Acropora muricata					sample 2			Chromosome	2024-02-22	JAJTNX01	481
+ASM3666990v1	GCF_036669905.1	GCA_036669905.1	Acropora muricata					sample 2		GCF_036669905.1-RS_2024_08	Chromosome	2024-02-22	JAJTNX01	481
+jaPorLute2.1	GCA_958299795.1	GCF_958299795.1	Porites lutea								Chromosome	2023-07-07	CATQJN01	106
+jaPorLute2.1	GCF_958299795.1	GCA_958299795.1	Porites lutea							GCF_958299795.1-RS_2025_04	Chromosome	2023-07-07	CATQJN01	106
+jaMetSeni4.1	GCA_949775045.1		Metridium senile								Chromosome	2023-04-08	CATKSA01	250
+jaGorVent5.1	GCA_964194065.1		Gorgonia ventalina								Chromosome	2024-06-28	CAXMKZ01	128
+ASM3666991v2	GCA_036669915.2	GCF_036669915.1	Pocillopora verrucosa					sample1			Chromosome	2024-02-22	JAJSRX01	52
+ASM3666991v2	GCF_036669915.1	GCA_036669915.2	Pocillopora verrucosa					sample1		GCF_036669915.1-RS_2024_06	Chromosome	2024-02-22	JAJSRX01	52
+jaPorLoba17.1	GCA_973946955.1		Porites lobata								Chromosome	2025-10-26	CDAHJG01	368
+jaPalCari2.1	GCA_965234985.1		Palythoa caribaeorum								Chromosome	2025-04-06	CBDDWK01	1327
+jaOrbFran1.1	GCA_964199315.1	GCF_964199315.1	Orbicella franksi								Chromosome	2024-07-13	CAXMYY01	804
+jaOrbFran1.1	GCF_964199315.1	GCA_964199315.1	Orbicella franksi							GCF_964199315.1-RS_2026_03	Chromosome	2024-07-13	CAXMYY01	804
+jaAneSulc1.1	GCA_965177965.1		Anemonia sulcata								Chromosome	2025-02-28	CBCXTP01	40
+jaEunVerr7.2	GCA_964289765.3		Eunicella verrucosa								Chromosome	2025-07-07	CAXYMP03	194
+jaEunCavo1.2	GCA_965177985.2		Eunicella cavolini								Chromosome	2025-10-14	CBCXTR02	45
+jaLepSarm1.1	GCA_964658295.1		Leptogorgia sarmentosa								Chromosome	2025-01-02	CBAAAV01	292
+jaAntXant3.1	GCA_964019055.1		Anthopleura xanthogrammica								Chromosome	2024-03-24	CAXHSA01	133
+Corallium_rubrum_jaCorRubr1.2	GCA_964265095.1		Corallium rubrum								Chromosome	2024-09-25	CAXWAO01	309
+ASM4168250v1	GCA_041682505.1		Cavernularia obesa					SEN-2024			Chromosome	2024-09-03	JBDJPM01	479
+crgOcupat	GCA_052425735.1	GCF_052425735.1	Oculina patagonica					OP01		Annotation submitted by Centre for Genomic Regulation	Chromosome	2025-09-03	JBPAPT01	1951
+crgOcupat	GCF_052425735.1	GCA_052425735.1	Oculina patagonica					OP01		GCF_052425735.1-RS_2025_12	Chromosome	2025-09-03	JBPAPT01	1951
+TubCoc3	GCA_977035595.1		Tubastraea coccinea								Chromosome	2025-11-28	CDRQIW01	621
+ASM5449177v1	GCA_054491775.1		Paracondylactis sinensis					TZ2025-01			Chromosome	2026-01-14	JBTNHV01	166
+jaMeaMean2.1	GCA_963693305.1		Meandrina meandrites								Chromosome	2023-12-07	CAVNZF01	56
+jaSidSide1.1	GCA_964030785.1		Siderastrea siderea								Chromosome	2024-04-20	CAXIQD01	449
+jaPorCyli1.1	GCA_964035525.1		Porites cylindrica								Chromosome	2024-04-29	CAXIUU01	108
+jaSidRadi1.1	GCA_964017195.1		Siderastrea radians								Chromosome	2024-03-23	CAXHKT01	538
+jaMurMuri3.1	GCA_963855995.1		Muricea muricata								Chromosome	2023-12-15	CAWLCR01	93
+jaRicFlor1.1	GCA_949710005.1		Ricordea florida								Chromosome	2023-03-28	CATIXD01	54
+jaDiaLine6.1	GCA_918843875.1		Diadumene lineata								Chromosome	2021-11-18	CAKKNV01	137
+jaPocGran1.hap1.2	GCA_964027065.2		Pocillopora grandis								Chromosome	2024-06-03	CAXIEY02	299
+jaConGiga1.1	GCA_964258915.1		Condylactis gigantea								Chromosome	2024-09-05	CAXVHT01	63
+jaMadAure2.1	GCA_964059495.1		Madracis auretenra								Chromosome	2024-06-05	CAXKXD01	389
+ASM3666993v2	GCA_036669935.2	GCF_036669935.1	Montipora foliosa					CH-2021			Chromosome	2024-08-23	JAJTOQ02	466
+ASM3666993v2	GCF_036669935.1	GCA_036669935.2	Montipora foliosa					CH-2021		GCF_036669935.1-RS_2024_09	Chromosome	2024-08-23	JAJTOQ02	466
+jaIsoPali11.1	GCA_964212065.1		Isopora palifera								Chromosome	2024-08-03	CAXOTM01	269
+ASM3666992v2	GCA_036669925.2	GCF_036669925.1	Montipora capricornis					CH-2021			Chromosome	2024-08-23	JAJTOP02	442
+ASM3666992v2	GCF_036669925.1	GCA_036669925.2	Montipora capricornis					CH-2021		GCF_036669925.1-RS_2024_09	Chromosome	2024-08-23	JAJTOP02	442
+jaBlaWell11.1	GCA_947652115.1		Blastomussa wellsi								Chromosome	2022-12-21	CANTDW01	134
+jaAntBipi1.1	GCA_984041435.1		Antillogorgia bipinnata								Chromosome	2026-06-15	CFFEFP01	1000
+PSU_Apoculata_full	GCA_047906015.2		Astrangia poculata					PSU_2025			Chromosome	2025-05-01	JBLOOU02	465
+jaCalPara1.1	GCA_964340385.1		Calliactis parasitica								Chromosome	2024-11-14	CAYEZR01	12
+jaParCine1.1	GCA_965243875.1		Paranemonia cinerea								Chromosome	2025-04-16	CBDEWH01	37
+jaSarEleg1.1	GCA_982319615.1		Sarcophyton elegans								Chromosome	2026-03-22	CEVNFB01	154
+jaDenCyli1.1	GCA_964187815.1		Dendrogyra cylindrus								Chromosome	2024-06-18	CAXLMZ01	362
+jaPluPenn1.1	GCA_964036295.1		Plumapathes pennacea								Chromosome	2024-05-13	CAXIWU01	24
+jaAcrSpic1.1	GCA_964261235.1		Acropora spicifera								Chromosome	2024-09-07	CAXVPB01	88
+jaCorViri6.1	GCA_979016875.1		Corynactis viridis								Chromosome	2026-02-27	CECUDG01	69
+jaMonPala3.1	GCA_964330385.1		Montipora palawanensis								Chromosome	2024-11-07	CAYELN01	144
+jaActMedi1.1plusMT	GCA_965224875.2		Actinia mediterranea								Chromosome	2025-08-23	CBDDBB02	36
+jaClaCaes1.1	GCA_977000285.1		Cladocora caespitosa								Chromosome	2025-11-08	CDRLXK01	630
+jaVerCyno1.1	GCA_965118255.1		Veretillum cynomorium								Chromosome	2025-01-29	CBCPHG01	292
+jaOcuArbu1.hap1.1	GCA_964656845.1		Oculina arbuscula								Chromosome	2025-01-02	CAZZTG01	476
+jaAgaAgar1.hap1.1	GCA_974392565.1		Agaricia agaricites								Chromosome	2025-10-26	CDCVHM01	487
+jaPorPori1.2	GCA_987193285.1		Porites porites								Chromosome	2026-09-01	CFWXIY02	1208
+jaCalGrac1.1	GCA_964204845.1		Callogorgia gracilis								Chromosome	2024-07-27	CAXNRF01	198
+jaPteGris1.1	GCA_964659595.1		Pteroeides griseum								Chromosome	2025-01-02	CBAADO01	36
+jaPacMult1.1 alternative haplotype	GCA_984695265.1		Pachycerianthus multiplicatus								Chromosome	2026-06-22	CFIWPK01	30
+jaPorRusx1.1	GCA_964035705.1		Porites rus								Chromosome	2024-05-02	CAXIVM01	3095
+jaAulVerr1.hap1.1	GCA_965282975.1		Aulactinia verrucosa								Chromosome	2025-05-18	CBDIMY01	133
+ASM4579182v1	GCA_045791825.1		Hemicorallium imperiale					Z232			Chromosome	2024-12-06	JBJHQK01	169
+Scal100	GCA_033964015.1		Scolanthus callimorphus				Carantec	ScWienSc1			Chromosome	2023-11-28	JAWWUD01	303
+jaMicLord3.1	GCA_964020085.1		Micromussa lordhowensis								Chromosome	2024-03-30	CAXHUQ01	1614
+jaCypSala7.1	GCA_964194085.1		Cyphastrea salae								Chromosome	2024-06-28	CAXMLB01	36
+jaDunAxif1.1	GCA_964258685.1		Duncanopsammia axifuga								Chromosome	2024-09-01	CAXVHN01	699
+jaSteInte3.hap1.1	GCA_965112835.1		Stephanocoenia intersepta								Chromosome	2025-01-24	CBCOSS01	1150
+jaAcrAuse1.1	GCA_964273435.1		Acropora austera								Chromosome	2024-10-04	CAXWWJ01	1141
+jaMadSena2.1	GCA_964656595.1		Madracis senaria								Chromosome	2025-01-02	CAZZSH01	402
+jaRhoOscu1.1	GCA_965240485.1		Rhodactis osculifera								Chromosome	2025-04-14	CBDEKU01	396
+jaTurReni1.1	GCA_964204835.1		Turbinaria reniformis								Chromosome	2024-07-27	CAXNRM01	747
+ASM5957501v1	GCA_059575015.1		Neoanthomastus elongatus					MBM590001			Chromosome	2026-07-22	JBWBEV01	565
+jaEchHorr1.2	GCA_964199735.2		Echinopora horrida								Chromosome	2025-03-20	CAXMZG02	883
+jaAntArte2.1	GCA_964304775.1		Anthopleura artemisia								Chromosome	2024-11-07	CAYARF01	1169
+jaAcrLori1.hap1.1	GCA_965214385.1		Acropora loripes								Chromosome	2025-03-21	CBDCEB01	1578
+jaAcrGlau1.hap1.1	GCA_964274385.1		Acropora glauca								Chromosome	2024-11-08	CAXWZV01	460
+jaEunKnig1.1	GCA_965233905.1		Eunicea knighti								Chromosome	2025-04-03	CBDDTY01	5583
+CUHK_Cjar_2.0	GCA_022496165.2		Catalaphyllia jardinei					CO-2020			Chromosome	2022-06-07	JAEMPF02	38168
+Aiptasia genome 1.1	GCA_001417965.1	GCF_001417965.1	Exaiptasia diaphana					CC7		Annotation submitted by KAUST	Scaffold	2015-10-28	LJWW01	4312
+Aiptasia genome 1.1	GCF_001417965.1	GCA_001417965.1	Exaiptasia diaphana					CC7		GCF_001417965.1-RS_2023_11	Scaffold	2015-10-28	LJWW01	4312
+Adig_1.1	GCA_000222465.2	GCF_000222465.1	Acropora digitifera								Scaffold	2016-01-15	BACK02	2420
+Adig_1.1	GCF_000222465.1	GCA_000222465.2	Acropora digitifera							NCBI Acropora digitifera Annotation Release 100	Scaffold	2016-01-15	BACK02	2420
+ASM370409v1	GCA_003704095.1	GCF_003704095.1	Pocillopora damicornis					RSMAS		Annotation submitted by University of Miami	Scaffold	2018-10-31	RCHS01	4392
+ASM370409v1	GCF_003704095.1	GCA_003704095.1	Pocillopora damicornis					RSMAS		NCBI Pocillopora damicornis Annotation Release 100	Scaffold	2018-10-31	RCHS01	4392
+Stylophora pistillata v1.1	GCA_002571385.2	GCF_002571385.2	Stylophora pistillata					CSM Monaco		Annotation submitted by KAUST	Scaffold	2017-10-17	LSMT01	5512
+Stylophora pistillata v1.1	GCF_002571385.2	GCA_002571385.2	Stylophora pistillata					CSM Monaco		NCBI Stylophora pistillata Annotation Release 100	Scaffold	2017-10-17	LSMT01	5512
+ofav_dov_v1	GCA_002042975.1	GCF_002042975.1	Orbicella faveolata					FL	hermaphrodite		Scaffold	2017-03-20	MZGG01	1932
+ofav_dov_v1	GCF_002042975.1	GCA_002042975.1	Orbicella faveolata					FL	hermaphrodite	NCBI Orbicella faveolata Annotation Release 100	Scaffold	2017-03-20	MZGG01	1932
+Aten_1.0	GCA_014633955.1		Acropora tenuis								Scaffold	2020-09-05	BLAZ01	1538
+jaAntElea1_p1.1	GCA_051176645.1		Anthopleura elegantissima					AggregatingAnemone01/CBP01345			Contig	2025-07-02	JBPKRK01	881
+Agem_1.0	GCA_014634125.1		Acropora gemmifera								Scaffold	2020-09-05	BLFF01	2274
+ASM3014290v1	GCA_030142905.1		Heliopora coerulea					R001			Contig	2023-05-31	JASJOG01	769
+Loph_1.0	GCA_029204205.1		Desmophyllum pertusum					USNM1676648		Annotation submitted by Lehigh University	Scaffold	2023-03-08	JAPMOT01	2858
+jaFimPara1.2	GCA_977014755.2		Fimbriaphyllia paradivisa								Contig	2026-04-24	CDRNLE02	732
+ASM1649073v1	GCA_016490735.1		Pachyseris speciosa					CAN04-2015			Contig	2021-01-05	JAEMWC01	2368
+ASM960242v1	GCA_009602425.1	GCF_009602425.1	Actinia tenebrosa								Scaffold	2019-11-06	WAHB01	4002
+ASM960242v1	GCF_009602425.1	GCA_009602425.1	Actinia tenebrosa							NCBI Actinia tenebrosa Annotation Release 100	Scaffold	2019-11-06	WAHB01	4002
+Fanc_1.0	GCA_042850425.1		Fimbriaphyllia ancora								Scaffold	2024-07-27	BRZB01	205
+PSU_CNat_1.0.0	GCA_043250805.1		Colpophyllia natans					22254			Contig	2024-10-17	JBGLOC01	174
+ASM5043718v1	GCA_050437185.1		Entacmaea quadricolor					QM_EQ_FJ2			Contig	2025-05-19	JBITNL01	558
+jaPavDecu1.1	GCA_977016875.1	GCF_977016875.1	Pavona decussata								Contig	2025-11-08	CDRNST01	1180
+jaPavDecu1.1	GCF_977016875.1	GCA_977016875.1	Pavona decussata							GCF_977016875.1-RS_2026_06	Contig	2025-11-08	CDRNST01	1180
+jaAntSola1.0.p	GCA_023349425.1		Anthopleura sola					CCGP_MDBC_AS_20200803			Scaffold	2022-05-12	JALHLI01	269
+equina_smartden.arrow4.noredun	GCA_011057435.1		Actinia equina					AE1			Contig	2020-03-02	WHPX01	1486
+jaBriAsbe3.1	GCA_977019185.1		Briareum asbestinum								Contig	2025-11-08	CDRNYW01	4567
+Paus_1.0	GCA_022179025.1		Porites australiensis								Scaffold	2022-01-14	BOPM01	4983
+ASM1176337v2	GCA_011763375.2		Heteractis magnifica					IRGN W9CBD1RZL8			Scaffold	2022-09-26	JAADYU02	147986
+ASM1516403v2	GCA_015164035.2		Radianthus crispa					NT7GRQ4B95			Scaffold	2022-10-20	JAABNW02	166207
+Avir_v1	GCA_900234385.1		Anemonia viridis								Scaffold	2018-08-01	OCZR01	1095173
+ASM3808840v1	GCA_038088405.1		Porites divaricata					KS-2024			Contig	2024-04-12	JBBMOI01	48
+Apul_v1.1	GCA_044231415.1		Acropora pulchra					JA	hermaphrodite		Contig	2024-11-01	JBIQNU01	174
+AGI_CSIRO_Aspa_v1	GCA_031770025.1		Acropora spathulata					As357-1			Contig	2023-09-20	JAVKTU01	162
+ASM4854415v1	GCA_048544155.1		Acropora intermedia					XC-2025b			Contig	2025-03-11	JBLWFQ01	633
+ASM3577116v1	GCA_035771165.1		Paragorgia papillata					YL-2023			Contig	2024-01-17	JAWNZC01	473
+jaOrbAnnu2.hap2.1	GCA_977012875.1		Orbicella annularis								Contig	2025-11-08	CDRNEV01	1020
+GRF_DCR_1.0	GCA_024195265.1		Dendrophyllia cribrosa					DCR_2021			Scaffold	2022-07-08	JAJLRJ01	22
+jaParArbo1_p1.1	GCA_057556685.1		Paragorgia arborea					BubblegumCoral01 / CBP02698			Scaffold	2026-05-15	JBXVNV01	293
+DenGig_1.0	GCA_004324835.1	GCF_004324835.1	Dendronephthya gigantea					DGI-Jeju-01			Contig	2019-03-04	RSEI01	1320
+DenGig_1.0	GCF_004324835.1	GCA_004324835.1	Dendronephthya gigantea					DGI-Jeju-01		NCBI Dendronephthya gigantea Annotation Release 100	Contig	2019-03-04	RSEI01	1320
+jaDipLaby1.1	GCA_965282425.1		Diploria labyrinthiformis								Scaffold	2025-05-18	CBDIKJ01	1112
+Cladopsammia_gracilis_LHT_Sanya_2019_01_v1	GCA_056777005.1		Cladopsammia gracilis					LHT_Sanya_2019_01			Scaffold	2026-04-17	JBTYIJ01	792
+PAG_UKon_Phar_v2	GCA_040938025.2		Porites harrisoni					UAE_SA_Phar_03		Annotation submitted by Coral Global Search	Contig	2026-01-21	JBDLLT02	1882
+Pumb_1.0	GCA_042846405.1		Palythoa mizigama					Pmiz_01_1			Contig	2024-07-18	BAACCD01	4032
+jaAgaLama2.1	GCA_977015295.1		Agaricia lamarcki								Scaffold	2025-11-08	CDRNNQ01	5168
+Amic_1.0	GCA_014634165.1		Acropora microphthalma								Scaffold	2020-09-05	BLFI01	4878
+ASM1978742v1	GCA_019787425.1		Platygyra sinensis					PL-1			Contig	2021-08-27	JAHPZR01	56369
+PACLA8	GCA_902702795.2		Paramuricea clavata		A484AB					Annotation submitted by Centro Nacional de Análisis Genómico	Scaffold	2022-11-08	CACRXK02	64145
+ASM4447310v1	GCA_044473105.1		Heteractis aurora					HA4_MI_MC			Scaffold	2024-11-05	JBIDEO01	122508
+ASM2856488v2	GCA_028564885.2		Zoanthus sanctaehelenae					IRGN XW9LHZ5T8C			Scaffold	2023-06-07	JAOTRI02	173528
+ASM2533108v2	GCA_025331085.2		Zoanthus sociatus					IRGN 2Y5WH1N5ID			Scaffold	2023-06-07	JAOBAY02	134660
+ASM2540358v1	GCA_025403585.1		Parazoanthus swiftii					IRGN YJTUCUEJ8X			Scaffold	2022-09-26	JAOBYE01	735458
+ASM2654665v1	GCA_026546655.1		Epizoanthus illoricatus					I2TMW2CZG4			Scaffold	2022-11-30	JANVCK01	306368
+ASM2612240v2	GCA_026122405.2		Zoanthus sansibaricus					IRGN G794XHFJ09			Scaffold	2023-06-07	JAPEIX02	469458
+ASM2538874v1	GCA_025388745.1		Hydrozoanthus gracilis					ZKPF2VSYKB			Scaffold	2022-09-23	JANVCF01	262919
+ASM2544821v2	GCA_025448215.2		Palythoa grandis					IRGN 1PFXJ0MAC7			Scaffold	2023-06-01	JAOEJH02	559063
+ASM2757528v2	GCA_027575285.2		Zoanthus pulchellus					IRGN H5IB6RI3FG			Scaffold	2023-06-07	JAOBRB02	706929
+ASM985815v3	GCA_009858155.3		Phymanthus crucifer					IRGN K4SZ72D9VW			Scaffold	2023-06-01	WUCR03	315387
+ASM2540356v2	GCA_025403565.2		Palythoa heliodiscus					IRGN M8W4D2UKK2			Scaffold	2023-06-01	JAOBYJ02	777048
+ASM2757500v1	GCA_027575005.1		Sphenopus marsupialis					9T92VS51BY			Scaffold	2023-01-06	JAOBRF01	1223773
+ASM2757523v2	GCA_027575235.2		Palythoa mutuki					IRGN YAAKJB96DV			Scaffold	2023-06-07	JAODFW02	1718622
+ASM4450987v1	GCA_044509875.1		Leptoseris scabra					AS_meso_ODU_2024_1			Scaffold	2024-11-05	JBHEPV01	695
+ASM4388227v1	GCA_043882275.1		Montipora grisea					AS_meso_ODU_2024_2			Scaffold	2024-10-25	JBHOHN01	7188
+ASM5043721v1	GCA_050437215.1		Heteractis doreensis					QM_MD_VT2			Contig	2025-05-19	JBITNK01	229
+ASM4999603v1	GCA_049996035.1		Stichodactyla haddoni					QM_SHADD_VT3			Contig	2025-04-29	JBAMJU01	648
+ASM4404847v1	GCA_044048475.1		Stylatula elongata					R001			Contig	2024-10-29	JBBWUE01	388
+ASM4404854v1	GCA_044048545.1		Renilla koellikeri					R001			Contig	2024-10-29	JBBYAC01	497
+PMEA_v1	GCA_942486045.1		Pocillopora meandrina							Annotation submitted by Genoscope CEA	Contig	2023-05-15	CALNXJ01	252
+jaParBisc1.1	GCA_977018925.1		Paramuricea biscaya								Contig	2025-11-08	CDRNYG01	1471
+ASM5240264v1	GCA_052402645.1		Podabacia crustacea					xcPodCru1.1			Scaffold	2025-09-02	JBQVRX01	609
+jaParPaci1_p1.1	GCA_059750265.1		Paragorgia pacifica					PacificBubblegumCoral01 / CBP02696			Scaffold	2026-08-03	JBWWDY01	184
+jaEunClav3.1	GCA_976234745.1		Eunicea clavigera								Contig	2025-10-27	CDNHOW01	1277
+jaAntFurc1.1	GCA_977019255.1		Antipathes furcata								Contig	2025-11-08	CDRNYR01	815
+jaCauFurc1.1	GCA_965607595.1		Caulastraea furcata								Scaffold	2025-07-07	CBFDFU01	1860
+jaPseCliv1.hap2.1	GCA_977016755.1		Pseudodiploria clivosa								Contig	2025-11-08	CDRNSK01	1009
+jaIsiTent1_p1.1	GCA_057127605.1		Isidella tentaculum					BambooCoral01 / CBP02699			Scaffold	2026-04-30	JBXSGQ01	518
+QUT_TelSte_1.0	GCA_029948255.1		Telmatactis stephensoni					PJP-TS-01			Contig	2023-05-04	JALIZF01	1938
+Cmic_V1	GCA_059441185.1		Cyphastrea microphthalma					UAE_SA_Cmic_10		Annotation submitted by Coral Global Search	Scaffold	2026-07-15	JBMGOP01	5553
+jaAcrAbro1.hap1.1	GCA_982319565.1		Acropora abrotanoides								Scaffold	2026-03-22	CEVNEV01	2444
+Pumb_1.0	GCA_042854165.1		Palythoa umbrosa					Pumb_01_1			Contig	2024-07-18	BAACCE01	2838
+ASM4291941v1	GCA_042919415.1		Erythropodium caribaeorum					E_carib_col2			Contig	2024-10-10	JBEFDT01	8810
+jaPteGuad1.1	GCA_976232015.1		Pterogorgia guadalupensis								Contig	2025-10-26	CDNHDZ01	2699
+jaAntAmer4.hap1.1	GCA_976986585.1		Antillogorgia americana								Contig	2025-10-26	CDRKBS01	3585
+jaMurLaxa5.1	GCA_982185195.1		Muricea laxa								Contig	2026-03-08	CEUTVV01	4885
+ASM4404851v1	GCA_044048515.1		Dichotella gemmacea					R001			Contig	2024-10-29	JBBWUD01	8193
+ASM4246482v1	GCA_042464825.1		Edwardsia elegans					AR-2024a			Contig	2024-09-30	JBHDXZ01	6319
+jaEunSucc4.hap2.1	GCA_977969865.1		Eunicea succinea								Contig	2026-02-01	CDWWSO01	8796
+Aacu_1.0	GCA_014633975.1		Acropora acuminata								Scaffold	2020-09-05	BLEZ01	3293
+Acyt_1.0	GCA_014634045.1		Acropora cytherea								Scaffold	2020-09-05	BLFB01	4046
+Ayon_1.0	GCA_014634225.1		Acropora yongei								Scaffold	2020-09-05	BLFN01	1010
+Anas_1.0	GCA_014634205.1		Acropora nasuta								Scaffold	2020-09-05	BLFL01	4717
+Asel_1.0	GCA_014634525.1		Acropora selago								Scaffold	2020-09-05	BLFM01	5816
+Aflo_1.0	GCA_014634605.1		Acropora florida								Scaffold	2020-09-05	BLFE01	6979
+PEVE_v1	GCA_942486025.1		Porites evermanni							Annotation submitted by Genoscope CEA	Scaffold	2023-05-15	CALNXI01	8186
+Amyr_1.0	GCA_014634185.1		Astreopora myriophthalma								Scaffold	2020-09-04	BLFK01	1149
+Mcac_1.0	GCA_014634245.1		Montipora cactus								Scaffold	2020-09-05	BLFO01	4925
+Meff_1.0	GCA_014634505.1		Montipora efflorescens								Scaffold	2020-09-05	BLFP01	5162
+Aech_1.0	GCA_014634105.1		Acropora echinata								Scaffold	2020-09-04	BLFD01	2002
+Ahemp.RedSea.gaplosed_f2.ukon	GCA_037127295.1		Acropora hemprichii								Scaffold	2024-03-13	JAZHQP01	33983
+Aawi_1.0	GCA_014634005.1		Acropora awi								Scaffold	2020-09-05	BLFA01	2821
+ASM2626023v1	GCA_026260235.1		Hydrozoanthus antumbrosus					48XWLZJZVM			Scaffold	2022-11-21	JANVCB01	83614
+ASM2641330v1	GCA_026413305.1		Hydrozoanthus tunicans					J5HNDKAECG			Scaffold	2022-11-27	JAOBAT01	147071
+ASM4447332v1	GCA_044473325.1		Thalassianthus aster					TA_Frilly_Rabigh			Scaffold	2024-11-05	JBIDEG01	128901
+ASM4400766v1	GCA_044007665.1		Actinodendron alcyonoideum					Aal1_MI_DT			Scaffold	2024-10-28	JBIDEV01	264852
+ASM3687291v1	GCA_036872915.1		Nanipora kamurai					B7MV371YUL			Scaffold	2024-02-26	JBAHVQ01	236302
+ASM1516394v2	GCA_015163945.2		Stichodactyla helianthus					G8LN15B2N6			Scaffold	2022-11-30	WUAP02	209545
+ASM1180000v2	GCA_011800005.2		Stichodactyla mertensii					JXZJTLBCPJ			Scaffold	2022-11-30	JAAAQI02	209211
+Aflosc_v1	GCA_048544285.1		Actinostella flosculifera					USP-Br_15			Scaffold	2025-03-11	JBLZGT01	62997
+ASM2757498v1	GCA_027574985.1		Umimayanthus nakama					AM2NKUYEA9			Scaffold	2023-01-06	JAOBRG01	400997
+ASM2641350v1	GCA_026413505.1		Epizoanthus ramosus					J2S1SLI4R4			Scaffold	2022-11-27	JANVCJ01	161689
+ASM2533100v2	GCA_025331005.2		Zoanthus gigantus					IRGN HZVCTPUFWY			Scaffold	2023-06-01	JAOBBB02	416459
+ASM2543480v1	GCA_025434805.1		Antipathozoanthus remengesaui					0WV8AZOBUQ			Scaffold	2022-09-27	JANSTR01	229473
+ASM4447342v1	GCA_044473425.1		Ragactis hyalina					7ZPE4MX8A7			Scaffold	2024-11-05	JBIDEF01	211325
+ASM2550540v1	GCA_025505405.1		Epizoanthus rinbou					IRGN JMFIVZMKPF			Scaffold	2022-09-30	JANVCH01	158821
+ASM2616788v1	GCA_026167885.1		Bergia puertoricense					IRGN GLESJ2144X			Scaffold	2022-11-14	JANSTQ01	222172
+ASM2433692v2	GCA_024336925.2		Zoanthus solanderi					IRGN 4LVMBY7PDP			Scaffold	2023-06-07	JANCMA02	683163
+ASM4432712v1	GCA_044327125.1		Bunodosoma granuliferum					Bunol			Scaffold	2024-11-03	JBIDET01	278782
+ASM2544819v2	GCA_025448195.2		Parazoanthus atlanticus					IRGN 6ZLVDC5KRB			Scaffold	2023-06-07	JAOEHT02	619697
+ASM2654687v1	GCA_026546875.1		Pteroeides caledonicum					DVAQ4HP1WE			Scaffold	2022-11-30	JAOBAZ01	308709
+ASM2544799v2	GCA_025447995.2		Isaurus tuberculatus					IRGN WPF6ZGCF4S			Scaffold	2023-06-01	JAOEHV02	529436
+ASM2475786v1	GCA_024757865.1		Epizoanthus scotinus					BCLD6BMU9B			Scaffold	2022-08-28	JANUFV01	194961
+ASM2577002v1	GCA_025770025.1		Virgularia gustaviana					IRGN:20CXF6CREN			Scaffold	2022-10-20	JAOTOK01	121611
+ASM3147143v1	GCA_031471435.1		Stomphia didemon					IRGN 2022FHL149			Scaffold	2023-09-14	JAUPMF01	76020
+ASM2540352v1	GCA_025403525.1		Umimayanthus kanabou					IRGN NBXC2RCGRD			Scaffold	2022-09-26	JAOBYH01	642856
+ASM3227066v1	GCA_032270665.1		Metridium farcimen					IRGN 2022FHL602			Scaffold	2023-10-02	JAUPMH01	209616
+ASM3227038v1	GCA_032270385.1		Urticina crassicornis					IRGN 2022FHL166			Scaffold	2023-10-02	JAUUIK01	188453
+ASM2540360v1	GCA_025403605.1		Parazoanthus darwini					IRGN NLQ8XUX4U2			Scaffold	2022-09-26	JAOBYF01	795642
+ASM2654693v2	GCA_026546935.2		Palythoa grandiflora					IRGN HKIKRJOT78			Scaffold	2023-06-01	JAOCPT02	1042996
+ASM2540354v1	GCA_025403545.1		Epizoanthus stellaris					IRGN 4Z0QAQ1SI2			Scaffold	2022-09-26	JAOBYG01	924661
+ASM4432721v1	GCA_044327215.1		Cryptodendrum adhaesivum					KA_CA3_SR			Scaffold	2024-11-03	JBIDER01	537291
+ASM4447314v1	GCA_044473145.1		Diadumene cincta					YGK5GJJY0I			Scaffold	2024-11-05	JBIDEP01	425998
+ASM4447326v1	GCA_044473265.1		Phymanthus loligo					KA_SP1B_AS			Scaffold	2024-11-05	JBIDEH01	321988
+Renilla reniformis genome assembly 1.0	GCA_900177555.1		Renilla reniformis								Scaffold	2017-04-20	FXAL01	171053
+ASM2757521v2	GCA_027575215.2		Hydrozoanthus sils					IRGN D8I5S2QRUW			Scaffold	2023-06-01	JAOBRD02	1154185
+ASM4447418v1	GCA_044474185.1		Stichodactyla tapetum					KA_MC_3_AS			Scaffold	2024-11-05	JBIDEI01	375204
+ASM4432727v1	GCA_044327275.1		Actinodendron arboreum					Aarb1_MI_DT			Scaffold	2024-11-03	JBIDEU01	791670
+ASM4447322v1	GCA_044473225.1		Diadumene leucolena					7YRURK81YH			Scaffold	2024-11-05	JBIDEQ01	409582
+ASM4447404v1	GCA_044474045.1		Heteranthus verruculatus					WA_PHY01_Nearch			Scaffold	2024-11-05	JBIDEN01	481366
+ASM2544825v1	GCA_025448255.1		Umimayanthus chanpuru					82GC1EKMS4			Scaffold	2022-09-27	JAOEJI01	1257329
+ASM2540007v2	GCA_025400075.2		Phenganax stokvisi					IRGN ANW4HPJPFQ			Scaffold	2023-06-01	JAODVQ02	540910
+ASM2540009v1	GCA_025400095.1		Phenganax marumi					C8MZLTY745			Scaffold	2022-09-25	JAODVM01	470484
+ASM2757512v1	GCA_027575125.1		Umimayanthus parasiticus					L5S7Z6YT5G			Scaffold	2023-01-06	JAOBRH01	1355691
+ASM2543484v1	GCA_025434845.1		Phenganax subtilis					V79C6OS4IX			Scaffold	2022-09-27	JAOBYK01	1264191
+ASM2474133v1	GCA_024741335.1		Antipathozoanthus obscurus					BT1OMJ975U			Scaffold	2022-08-24	JANTBY01	610620
+ASM2538866v1	GCA_025388665.1		Epizoanthus planus					N8G7E46U5T			Scaffold	2022-09-23	JANVCE01	272226
+ASM2543478v2	GCA_025434785.2		Epizoanthus fatuus					IRGN HLH3YUZ2FQ			Scaffold	2023-09-20	JAOCZQ02	1267615
+ASM2756361v1	GCA_027563615.1		Churabana kuroshioae					YJ3KVYXT2F			Scaffold	2023-01-03	JANSTY01	550534
+ASM2654661v1	GCA_026546615.1		Paleozoanthus reticulatus					MWKCRR2XT5			Scaffold	2022-11-30	JAOCMZ01	1011069
+jaLepSarm1.1 alternate haplotype	GCA_964658305.1		Leptogorgia sarmentosa								Chromosome	2024-12-23		18
+Nvec200	GCA_033964005.1		Nematostella vectensis				Kansas City	NvSIMR3CF6CM			Chromosome	2023-11-28	JAWWUE01	29
+ASM5905577v1	GCA_059055775.1		Stylophora pistillata					TWkt-23		Annotation submitted by Academia Sinica	Chromosome	2026-07-07	JBNOSB01	62
+jaPocDami1.1	GCA_964200805.1		Pocillopora damicornis								Chromosome	2024-07-25	CAXNCK01	114
+jaStyPist1.1	GCA_964205215.1		Stylophora pistillata								Chromosome	2024-07-29	CAXNSV01	226
+Ahyacinthus.chrsV1	GCA_020536085.1		Acropora hyacinthus					CA74			Chromosome	2021-10-20	JAIFHZ01	907
+Acropora palmata Hi-C genome assembly v3	GCA_025960835.2		Acropora palmata					1012			Chromosome	2024-03-07	JAOVVL02	406
+Acerv_M5_2	GCA_041430625.1		Acropora cervicornis					22257			Chromosome	2024-08-23	JBCLVO01	3246
+jaAcrMuri1.1	GCA_964332325.1		Acropora muricata								Chromosome	2024-11-08	CAYETB01	708
+jaEunVerr1.1	GCA_964261655.1		Eunicella verrucosa								Chromosome	2024-09-10	CAXVQL01	198
+TubCoc2	GCA_977035615.1		Tubastraea coccinea								Chromosome	2025-11-28	CDRQIX01	2300
+TubCoc1	GCA_977035605.1		Tubastraea coccinea								Chromosome	2025-11-28	CDRQIY01	4206
+jaPorDiva4.1	GCA_964035745.1		Porites divaricata								Chromosome	2024-05-04	CAXIVP01	89
+jaAcrSpat14.1	GCA_964019555.1		Acropora spathulata								Chromosome	2024-03-30	CAXHUH01	463
+jaMonCapr1.1	GCA_965112405.1		Montipora capricornis								Chromosome	2025-01-23	CBCORM01	863
+jaPacMult1.1	GCA_984588385.1		Pachycerianthus multiplicatus								Chromosome	2026-06-21	CFIGWN01	657
+alvinactis_v1	GCA_055797605.1		Alvinactis sp. YZ-2022					SY134HK01			Chromosome	2026-03-11	JAPWCO01	37
+jaMonSpea1.1	GCA_964205245.1		Montipora sp. UDUK0000274								Chromosome	2024-07-29	CAXNSY01	1075
+jaSibSpea1.hap1.1	GCA_984806735.1		Sibopathes sp. 1 SH-2022								Chromosome	2026-06-26	CFJMSC01	3280
+jaAcrLori1.hap2.1	GCA_965213945.1		Acropora loripes								Chromosome	2025-03-21	CBDCCR01	984
+jaAcrPulc1.hap1.1	GCA_965118205.1		Acropora cf. manni								Chromosome	2025-01-29	CBCPHC01	1339
+jaNemVect1.2 alternate haplotype	GCA_932526215.2		Nematostella vectensis								Contig	2026-02-26	CAKOBB02	11386
+Aiptasia_F003_V1	GCA_056151815.1		Exaiptasia diaphana					F003	female	Annotation submitted by Voolstra lab	Scaffold	2026-03-19	JBWBEE01	12422
+CUHK_Apul_v2	GCA_024322265.1		Exaiptasia diaphana					CHI-2020			Scaffold	2022-07-19	JACAZJ01	8981
+Adig_2.0	GCA_014634065.1		Acropora digitifera								Scaffold	2020-09-05	BLFC01	955
+um_ofav_v1	GCA_042242905.1		Orbicella faveolata					gen_17	hermaphrodite		Contig	2024-09-25	JBGTOH01	58
+jaPocDami1.1 alternate haplotype	GCA_964200845.1		Pocillopora damicornis								Contig	2024-07-26	CAXNCM01	4648
+APGP_CSIRO_Spis_v1	GCA_032172095.1		Stylophora pistillata				Davies reef	Davies_AG016			Contig	2023-09-28	JAUZEC01	4149
+O_faveolata_v1	GCA_001896105.1		Orbicella faveolata					FL			Scaffold	2016-12-09	MPSW01	17687
+KocU_Ahya_1.0	GCA_051942565.1		Acropora hyacinthus					Nishidomari_Ahya_1			Contig	2025-08-12	JBMUIC01	189
+jaAcrHyac4.1 alternate haplotype	GCA_964291555.1		Acropora hyacinthus								Contig	2024-10-25	CAXYTC01	4090
+Ahya_1.0	GCA_014634145.1		Acropora hyacinthus								Scaffold	2020-09-05	BLFG01	2758
+jaAcrPala1.3 alternate haplotype	GCA_964030595.3		Acropora palmata								Contig	2025-04-19	CAXIQB03	6992
+jaGalFasc40.1 alternate haplotype	GCA_948470715.1		Galaxea fascicularis								Scaffold	2023-02-03	CAOKRK01	899
+NEU_Acer_K2	GCA_032359415.1		Acropora cervicornis					K2		Annotation submitted by Northeastern University	Scaffold	2023-10-04	JARQWQ01	398
+jaAcrCerv1.1 alternate haplotype	GCA_964034795.1		Acropora cervicornis								Scaffold	2024-04-26	CAXITW01	10233
+Acerv_M5	GCA_037043185.1		Acropora cervicornis					14120			Scaffold	2024-03-06	JAWKAT01	4382
+jaMonCapi2.1 alternate haplotype	GCA_949126885.1		Montipora capitata								Scaffold	2023-04-09	CASBPT01	878
+Mcap_UHH_1.1	GCA_006542545.1		Montipora capitata					Colony #1			Scaffold	2019-07-02	RDEB01	27865
+jaAntElea1_a1.1	GCA_051176595.1		Anthopleura elegantissima					AggregatingAnemone01/CBP01345			Contig	2025-07-02	JBPKRL01	572
+jaAcrMuri1.1 alternate haplotype	GCA_964331975.1		Acropora muricata								Scaffold	2024-11-08	CAYETE01	16651
+Amur_1.0	GCA_014634545.1		Acropora muricata								Scaffold	2020-09-05	BLFJ01	6861
+ASM4276778v1	GCA_042767785.1		Anthopleura elegantissima					CsOR_C1			Scaffold	2024-10-08	JBHVNX01	4216
+jaPorLute2.1 alternate haplotype	GCA_958299805.1		Porites lutea								Scaffold	2023-07-07	CATQJO01	306
+jaMetSeni4.1 alternate haplotype	GCA_949775035.1		Metridium senile								Contig	2023-04-08	CATKSB01	5100
+PLOB_v1	GCA_942486035.1		Porites lobata							Annotation submitted by Genoscope CEA	Contig	2023-05-15	CALNXK01	1098
+jaGorVent5.1 alternate haplotype	GCA_964194125.1		Gorgonia ventalina								Scaffold	2024-06-26	CAXMLC01	3237
+QUT_ActTen_1.0	GCA_029948245.1		Actinia tenebrosa					PJP-AT-01			Scaffold	2023-05-04	JALIZE01	57
+jaPalCari2.1 alternate haplotype	GCA_965234995.1		Palythoa caribaeorum								Scaffold	2025-04-05	CBDDWL01	16223
+jaPorLoba17.1 alternate haplotype	GCA_973404555.1		Porites lobata								Scaffold	2025-10-27	CCXFEG01	21853
+Pver_genome_assembly_v1.0	GCA_014529365.1		Pocillopora verrucosa					AF25			Scaffold	2020-09-11	JAAVTL01	18268
+jaFimPara1.2 alternate haplotype	GCA_977014585.2		Fimbriaphyllia paradivisa								Contig	2026-04-28	CDRNLO02	33386
+ASM2654646v2	GCA_026546465.2		Palythoa caribaeorum					IRGN CSM4E2ESMF			Scaffold	2023-05-25	JAOCNB02	523089
+jaAntSola1.0.a	GCA_023349385.1		Anthopleura sola					CCGP_MDBC_AS_20200803			Scaffold	2022-05-12	JALHLJ01	556
+jaOrbFran1.1 alternate haplotype	GCA_964199325.1		Orbicella franksi								Contig	2024-07-12	CAXMYZ01	5365
+ASM4775984v1	GCA_047759845.1		Tubastraea coccinea					XC-2024			Scaffold	2025-02-13	JBJUWB01	2572
+jaColNata1.hap1.1	GCA_977013685.1		Colpophyllia natans								Contig	2025-11-08	CDRNJT01	2278
+jaColNata1.hap2.1	GCA_977014295.1		Colpophyllia natans								Contig	2025-11-08	CDRNJU01	1479
+ASM4404949v1	GCA_044049495.1		Briareum asbestinum					R001			Contig	2024-10-29	JBBYAB01	22554
+jaAntXant3.1 alternate haplotype	GCA_964019075.1		Anthopleura xanthogrammica								Contig	2024-03-23	CAXHSC01	4722
+jaPavDecu1.1 alternate haplotype	GCA_977016895.1		Pavona decussata								Contig	2025-11-08	CDRNSV01	14524
+CSM_Crub_V152	GCA_046563405.1		Corallium rubrum					130114			Scaffold	2025-01-08	JBKGWA01	2910
+jaBriAsbe3.1 alternate haplotype	GCA_977019165.1		Briareum asbestinum								Contig	2025-11-08	CDRNYV01	13043
+jaEunVerr1.1 alternate haplotype	GCA_964261685.1		Eunicella verrucosa								Scaffold	2024-09-08	CAXVQO01	16398
+UCD_Asol	GCA_016068315.1		Anthopleura sola					LAJ1			Scaffold	2020-12-15	JABJWW01	89
+ASM2475237v1	GCA_024752375.1		Entacmaea quadricolor					GW61ZRZ7DM			Scaffold	2022-08-27	JANTNT01	249586
+PSU_SSid_1.0.0	GCA_043250775.1		Siderastrea siderea					22256			Contig	2024-10-17	JBGLOD01	260
+jaOrbAnnu2.hap1.1	GCA_977012905.1		Orbicella annularis								Contig	2025-11-08	CDRNFF01	2767
+jaSidSide1.1 alternate haplotype	GCA_964031265.1		Siderastrea siderea								Scaffold	2024-04-21	CAXIQK01	2020
+jaAcrSpat14.1 alternate haplotype	GCA_964019565.1		Acropora spathulata								Scaffold	2024-03-31	CAXHUJ01	2075
+jaParArbo1_a1.1	GCA_057556705.1		Paragorgia arborea					BubblegumCoral01 / CBP02698			Scaffold	2026-05-15	JBXVNW01	244
+ASM2245715v1	GCA_022457155.1		Cladopsammia gracilis					Clg_1.0			Contig	2022-03-03	JAJGOT01	1623
+XeniaSp_v1	GCA_021976095.1	GCF_021976095.1	Xenia sp. Carnegie-2017					Carnegie-2017			Scaffold	2022-02-04	JAJSDR01	168
+XeniaSp_v1	GCF_021976095.1	GCA_021976095.1	Xenia sp. Carnegie-2017					Carnegie-2017		NCBI Xenia sp. Carnegie-2017 Annotation Release 100	Scaffold	2022-02-04	JAJSDR01	168
+jaSidRadi1.1 alternate haplotype	GCA_964017165.1		Siderastrea radians								Scaffold	2024-03-23	CAXHKV01	10710
+jaPorCyli1.1 alternate haplotype	GCA_964035495.1		Porites cylindrica								Scaffold	2024-04-28	CAXIUY01	2663
+jaPorDiva4.1 alternate haplotype	GCA_964035725.1		Porites divaricata								Contig	2024-05-03	CAXIVQ01	4790
+jaMurMuri3.1 alternate haplotype	GCA_963855965.1		Muricea muricata								Scaffold	2023-12-15	CAWLCV01	3269
+jaMeaMean2.1 alternate haplotype	GCA_963693325.1		Meandrina meandrites								Scaffold	2023-12-11	CAVNZH01	2261
+jaBlaWell11.1 alternate haplotype	GCA_947652475.1		Blastomussa wellsi								Scaffold	2022-12-21	CANTFH01	2167
+jaDiaLine6.1 alternate haplotype	GCA_918843945.1		Diadumene lineata								Scaffold	2021-11-19	CAKKNZ01	1679
+jaDipLaby1.1 alternate haplotype	GCA_965282395.1		Diploria labyrinthiformis								Contig	2025-07-02	CBDIKL01	7433
+jaConGiga1.1 alternate haplotype	GCA_964258905.1		Condylactis gigantea								Scaffold	2024-09-05	CAXVHV01	4656
+jaPocGran1.hap2.1 alternate haplotype	GCA_964027075.1		Pocillopora grandis								Scaffold	2024-04-16	CAXIEX01	20
+jaAgaLama2.1 alternate haplotype	GCA_977015345.1		Agaricia lamarcki								Contig	2025-11-08	CDRNNP01	824
+jaMonCapr1.1 alternate haplotype	GCA_965112485.1		Montipora capricornis								Scaffold	2025-01-23	CBCORU01	18436
+jaMadAure2.1 alternate haplotype	GCA_964059505.1		Madracis auretenra								Scaffold	2024-05-29	CAXKXI01	15422
+jaRicFlor1.1 alternate haplotype	GCA_949710055.1		Ricordea florida								Scaffold	2023-04-09	CATIXJ01	16697
+jaAntBipi1.1 alternate haplotype	GCA_984036985.1		Antillogorgia bipinnata								Contig	2026-06-15	CFFDOF01	8699
+jaIsoPali11.1 alternate haplotype	GCA_964212125.1		Isopora palifera								Scaffold	2024-08-03	CAXOTR01	33383
+Aint_1.0	GCA_014634585.1		Acropora intermedia								Scaffold	2020-09-05	BLFH01	6224
+ASM4432710v1	GCA_044327105.1		Condylactis gigantea					QM_CGHT1_P			Scaffold	2024-11-03	JBIDES01	106631
+ASM6069712v1	GCA_060697125.1		Granulogorgia sp. T75933-1								Contig	2026-09-01	JCBPFX01	406
+ASM5449153v1	GCA_054491535.1		Polymyces sp. M5039					M5039			Contig	2026-01-14	JBREVG01	1024
+jaOcuArbu1.hap2.1	GCA_964656855.1		Oculina arbuscula								Scaffold	2025-01-03	CAZZTF01	189
+PSU_DCyl_1.0.0	GCA_043250745.1		Dendrogyra cylindrus					22255			Contig	2024-10-17	JBGLOB01	301
+Madrepora sp._1.0	GCA_046129775.1		Madrepora sp. SY280-shi		SY280-shi						Contig	2024-12-17	JAZFPK01	257
+jaAgaAgar1.hap2.1	GCA_974392605.1		Agaricia agaricites								Scaffold	2025-10-26	CDCVHK01	272
+IDSSE_Tra_sp_1.0	GCA_016169945.1		Trachythela sp. YZ-2020					YZ-2020			Contig	2020-12-21	JADLSH01	396
+ASM4129641v1	GCA_041296415.1		Actinoscyphia sp. m1220					m1220			Scaffold	2024-08-15	JALNPV01	131
+ASM3577240v1	GCA_035772405.1		Chrysogorgia sp. JL179-B06					JL179-B06			Contig	2024-01-17	JAYKKM01	522
+jaMadSpea1.hap2.1	GCA_977014835.1		Madrepora sp. 1 SH-2022								Contig	2025-11-08	CDRNLT01	920
+jaMadSpea1.hap1.1	GCA_977014845.1		Madrepora sp. 1 SH-2022								Contig	2025-11-08	CDRNLU01	1799
+jaMonPala3.1 alternate haplotype	GCA_964330355.1		Montipora palawanensis								Scaffold	2024-11-08	CAYELP01	1925
+jaUmiSpea1.hap2.1	GCA_977925965.1		Umimayanthus sp. GHC0000340								Scaffold	2026-02-01	CDWQYG01	3729
+jaUmiSpea1.hap1.1	GCA_977925915.1		Umimayanthus sp. GHC0000340								Scaffold	2026-02-01	CDWQYH01	5099
+jaAulVerr1.hap2.1	GCA_965282985.1		Aulactinia verrucosa								Scaffold	2025-05-18	CBDIMZ01	212
+jaParPaci1_a1.1	GCA_059750175.1		Paragorgia pacifica					PacificBubblegumCoral01 / CBP02696			Scaffold	2026-08-03	JBWWDZ01	124
+CUHK_Acti_1.0	GCA_030867875.1		Actinernus sp. WN-2022					WN-2022			Scaffold	2023-08-25	JAOWCC01	1812
+Taxipathes sp._1.0	GCA_046129755.1		Taxipathes sp. SY275-mao		SY275-mao						Scaffold	2024-12-17	JAZFPL01	768
+ASM5650888v1	GCA_056508885.1		Podabacia crustacea					XC-2025a			Contig	2026-04-01	JBLWFP01	1897
+jaSteInte3.hap2.1	GCA_965112845.1		Stephanocoenia intersepta								Scaffold	2025-01-24	CBCOSR01	783
+jaAcrSpic1.1 alternate haplotype	GCA_964261295.1		Acropora spicifera								Scaffold	2024-09-07	CAXVPG01	3862
+jaPluPenn1.1 alternate haplotype	GCA_964036285.1		Plumapathes pennacea								Contig	2024-05-12	CAXIWV01	2764
+jaCorViri6.1 alternate haplotype	GCA_979016815.1		Corynactis viridis								Scaffold	2026-02-27	CECUDK01	1857
+jaPseCliv1.hap1.1	GCA_977016835.1		Pseudodiploria clivosa								Contig	2025-11-08	CDRNSL01	1280
+jaIsiTent1_a1.1	GCA_057127585.1		Isidella tentaculum					BambooCoral01 / CBP02699			Scaffold	2026-04-30	JBXSGR01	965
+jaDenCyli1.1 alternate haplotype	GCA_964187805.1		Dendrogyra cylindrus								Contig	2024-06-18	CAXLND01	7933
+Paracalyptrophora sp._1.0	GCA_046129875.1		Paracalyptrophora sp. SY255-jin		SY255-jin						Scaffold	2024-12-17	JAZFPM01	3941
+jaAcrPulc1.hap2.1	GCA_965118215.1		Acropora cf. manni								Scaffold	2025-01-29	CBCPHB01	1265
+jaSibSpea1.hap2.1	GCA_984806745.1		Sibopathes sp. 1 SH-2022								Scaffold	2026-06-26	CFJMSB01	2107
+ASM3367526v1	GCA_033675265.1		Actinostola sp. cb2023					cb2023		Annotation submitted by BGI-SZ	Scaffold	2023-11-15	JAUJYZ01	1596
+jaCalGrac1.1 alternate haplotype	GCA_964204815.1		Callogorgia gracilis								Contig	2024-07-27	CAXNRS01	7212
+jaParBisc1.1 alternate haplotype	GCA_977018935.1		Paramuricea biscaya								Scaffold	2025-11-08	CDRNYI01	11934
+jaAcrGlau1.hap2.1	GCA_964275325.1		Acropora glauca								Scaffold	2024-10-25	CAXYBI01	484
+jaAcrAbro1.hap2.1	GCA_982319575.1		Acropora abrotanoides								Scaffold	2026-03-22	CEVNEW01	3295
+jaTurReni1.1 alternate haplotype	GCA_964204765.1		Turbinaria reniformis								Scaffold	2024-07-27	CAXNRT01	12526
+jaRhoOscu1.1 alternate haplotype	GCA_965240445.1		Rhodactis osculifera								Contig	2025-04-14	CBDEKY01	5782
+jaAntAmer4.hap2.1	GCA_976986605.1		Antillogorgia americana								Contig	2025-10-26	CDRKBR01	2662
+jaPorRusx1.1 alternate haplotype	GCA_964035695.1		Porites rus								Scaffold	2024-05-01	CAXIVN01	13415
+jaAcrAuse1.1 alternate haplotype	GCA_964273405.1		Acropora austera								Scaffold	2024-10-03	CAXWWS01	10631
+jaCypSala7.1 alternate haplotype	GCA_964194075.1		Cyphastrea salae								Scaffold	2024-06-26	CAXMLE01	15719
+jaCauFurc1.1 alternate haplotype	GCA_965607615.1		Caulastraea furcata								Contig	2025-07-07	CBFDFX01	15703
+jaDunAxif1.1 alternate haplotype	GCA_964258795.1		Duncanopsammia axifuga								Scaffold	2024-08-30	CAXVHQ01	16629
+jaEunSucc4.hap1.1	GCA_977969925.1		Eunicea succinea								Contig	2026-02-01	CDWWSN01	7315
+jaEchHorr1.2 alternate haplotype	GCA_964199745.2		Echinopora horrida								Scaffold	2025-03-20	CAXMZJ02	22183
+jaMicLord3.1 alternate haplotype	GCA_964020075.1		Micromussa lordhowensis								Scaffold	2024-03-31	CAXHUT01	23351
+jaAntFurc1.1 alternate haplotype	GCA_977019245.1		Antipathes furcata								Contig	2025-11-08	CDRNYS01	8194
+jaEunClav3.1 alternate haplotype	GCA_976237775.1		Eunicea clavigera								Contig	2025-10-27	CDNIBX01	18163
+jaAntArte2.1 alternate haplotype	GCA_964304795.1		Anthopleura artemisia								Scaffold	2024-11-07	CAYARH01	9480
+jaMurLaxa5.1 alternate haplotype	GCA_982184795.1		Muricea laxa								Contig	2026-03-08	CEUTVW01	15914
+jaPteGuad1.1 alternate haplotype	GCA_976231725.1		Pterogorgia guadalupensis								Contig	2025-10-26	CDNHDX01	8428
+jaMadSena2.1 alternate haplotype	GCA_964656605.1		Madracis senaria								Scaffold	2025-01-03	CAZZSI01	37246
+jaEunKnig1.1 alternate haplotype	GCA_965233895.1		Eunicea knighti								Scaffold	2025-04-02	CBDDTX01	13948
+jaMonSpea1.1 alternate haplotype	GCA_964205255.1		Montipora sp. UDUK0000274								Scaffold	2024-07-29	CAXNTE01	47801
+Montipora_aff_capitata_1.0	GCA_023091755.1		Montipora sp. Colony 1 RG-2022					Colony 1			Contig	2022-04-22	JALIRR01	18549
+Prus	GCA_900290455.1		Porites rus					14846/IV/SATS-LN/2007			Scaffold	2018-05-28	OKRP01	14982
+ASM2543482v1	GCA_025434825.1		Bergia sp. 'catenularis'					MFVDBR327K			Scaffold	2022-09-27	JANRMR01	259229
+ASM20922v1	GCA_000209225.1	GCF_000209225.1	Nematostella vectensis		CH2 x CH6					Annotation submitted by DOE Joint Genome Institute (JGI)	Scaffold	2007-08-22	ABAV01	10804
+ASM20922v1	GCF_000209225.1	GCA_000209225.1	Nematostella vectensis		CH2 x CH6					NCBI Nematostella vectensis Annotation Release 100	Scaffold	2007-08-22	ABAV01	10804
+amil_sf_1.1	GCA_004143615.1	GCF_004143615.1	Acropora millepora					SF001			Scaffold	2019-02-06	QTZP01	3869
+amil_sf_1.1	GCF_004143615.1	GCA_004143615.1	Acropora millepora					SF001		NCBI Acropora millepora Annotation Release 100	Scaffold	2019-02-06	QTZP01	3869
+jaStyPist1.1 alternate haplotype	GCA_964205175.1		Stylophora pistillata								Contig	2024-07-29	CAXNTC01	11628
+CSIRO_AGI_Pver_v1	GCA_030620025.1	GCF_030620025.1	Pocillopora verrucosa					Pver-AG016-CSIRO1			Contig	2023-08-03	JAUTXV01	2272
+CSIRO_AGI_Pver_v1	GCF_030620025.1	GCA_030620025.1	Pocillopora verrucosa					Pver-AG016-CSIRO1		GCF_030620025.1-RS_2023_08	Contig	2023-08-03	JAUTXV01	2272
+IOCAS_KeraD1	GCA_058226615.2		Keratoisididae sp. D1_2022					D1_2022			Contig	2026-07-27	JBLOUM02	1057
+jaPorAstr1.1	GCA_987195345.1		Porites astreoides								Chromosome	2026-09-08	CFWXOY01	1170
